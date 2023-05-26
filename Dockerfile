@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:23.10
 
 # This Dockerfile builds for both x86_64 and ppc64le
 

@@ -1,4 +1,4 @@
-FROM ubuntu:23.10
+FROM ubuntu:20.04
 
 # This Dockerfile builds for both x86_64 and ppc64le
 
